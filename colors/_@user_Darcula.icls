@@ -1,0 +1,74 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-09-12T22:40:32</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2021.2.0.0</property>
+    <property name="modified">2021-11-02T21:48:10</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_COPIED" value="addb67" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="ef5350" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="637777" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f78c6c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f78c6c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f78c6c" />
+    <option name="FILESTATUS_MERGED" value="82aaff" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="c792ea" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="7fdbca" />
+    <option name="FILESTATUS_changelistConflict" value="f78c6c" />
+    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+  </colors>
+  <attributes>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="7d055a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="7d055a" />
+        <option name="BACKGROUND" value="5c4f17" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_2_SELECTION">
+      <value>
+        <option name="FOREGROUND" value="72232" />
+        <option name="BACKGROUND" value="acd6e7" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_3_MARKER">
+      <value>
+        <option name="FOREGROUND" value="4c93d4" />
+        <option name="BACKGROUND" value="a76570" />
+        <option name="ERROR_STRIPE_COLOR" value="e375ff" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_4_MARKER">
+      <value>
+        <option name="FOREGROUND" value="313131" />
+        <option name="BACKGROUND" value="806ea6" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_5_MARKER">
+      <value>
+        <option name="FOREGROUND" value="72232" />
+        <option name="BACKGROUND" value="a24e26" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
